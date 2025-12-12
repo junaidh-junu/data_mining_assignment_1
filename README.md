@@ -110,6 +110,11 @@ pip install pandas numpy matplotlib seaborn scikit-learn ucimlrepo jupyter
 3. Run all cells sequentially
 4. Generated visualizations will be saved as PNG files
 
+
+### To Run in jupyter notebook 
+1.  source venv/bin/activate && jupyter notebook Heart_Disease_Classification.ipynb
+
+
 ### Repository Structure
 ```
 ├── Heart_Disease_Classification.ipynb    # Main implementation notebook
